@@ -4,5 +4,7 @@ If like me, you've ever been volunteered to be a bingo caller, then you'll know 
 So that's why I wrote this British Bingo calling program with the following features
 
 Display the current number in big letters for all the drunk old giffers that can't hear you properly
+
 Display what numbers have been called before so you can check the old giffers are not cheating you
+
 Give you the phrase that goes along with the number, so afterwards people can tell you how cool you are
